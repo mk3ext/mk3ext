@@ -22,5 +22,5 @@ My name is Kyle and I'm 20 years old.
 
 
 ### Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wert&theme=ayu-mirage)](https://git.io/streak-stats)
-[![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=wert&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/wert/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mk3ext&theme=ayu-mirage)](https://git.io/streak-stats)
+[![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=mk3ext&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/wert/)
