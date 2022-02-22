@@ -1,6 +1,6 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-My name is Kyle and I'm 20 years old.
+My name is Kyle and I'm 21 years old.
 
 ### 📋 Technologies:
 
